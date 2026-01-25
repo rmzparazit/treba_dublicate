@@ -6564,25 +6564,11 @@ async def parse_prices_parallel(products):
     log("✅ Параллельный парсинг завершён")
 
 def deduplicate_and_filter(products):
-    """Убираем дубли по URL и оставляем только товары с ценой"""
-    seen_urls = set()
     result = []
-
     for p in products:
-        url = (p.get("url") or "").strip()
-        if not url:
-            continue
-
-        # Пропускаем дубли
-        if url in seen_urls:
-            continue
-
-        seen_urls.add(url)
-
-        # Оставляем только с ценой
-        if int(p.get("price") or 0) > 0:
+        price = int(p.get("price") or 0)
+        if price > 0:
             result.append(p)
-
     return result
 
 def save_progress(products):
