@@ -1,0 +1,66 @@
+name: Генерация фида Требы Онлайн
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Каждые 6 часов
+  workflow_dispatch:
+
+jobs:
+  generate-feed:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: 📥 Клонировать репозиторий
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.REPO_PAT }}
+
+      - name: 🐍 Установить Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 📦 Установить зависимости
+        run: |
+          pip install -r requirements.txt
+          playwright install chromium
+
+      - name: 🚀 Запустить скрипт парсера
+        run: |
+          python3 feed-treba.py
+
+      - name: 🔍 Проверить, создан ли фид
+        run: |
+          if [ -f "output_treba/treba_catalog.xml" ]; then
+            echo "✅ Фид создан, размер: $(wc -c < output_treba/treba_catalog.xml) байт"
+            echo "   Товаров в фиде:"
+            grep -c '<offer' output_treba/treba_catalog.xml || echo "0"
+          else
+            echo "❌ Ошибка: фид не создан"
+            ls -la output_treba/ || echo "Директория не существует"
+            exit 1
+          fi
+
+      - name: 📤 Загрузить обновления в Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Проверяем, изменился ли фид
+          if git diff --quiet output_treba/treba_catalog.xml; then
+            echo "ℹ️ Фид не изменился — коммит не нужен"
+            exit 0
+          fi
+
+          # Добавляем файлы
+          git add output_treba/treba_catalog.xml
+          git add output_treba/treba_catalog.xml.backup || true
+          git add output_treba/progress.json
+
+          # Коммитим с описанием
+          git commit -m "🔄 Обновлён фид Требы Онлайн: $(date '+%Y-%m-%d %H:%M:%S')"
+          git push
+
+          echo "✅ Фид обновлён и загружен на GitHub"
