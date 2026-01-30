@@ -2,7 +2,7 @@ name: Генерация фида Требы Онлайн
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # Каждые 6 часов
+    - cron: '0 21 * * *'  # Каждое воскресенье в 01:00 UTC
   workflow_dispatch:
 
 jobs:
