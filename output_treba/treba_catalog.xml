@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-01-31T21:32:21">
+<yml_catalog date="2026-02-01T21:37:59">
   <shop>
     <name>Требы Онлайн</name>
     <company>Требы Онлайн</company>
@@ -82,6 +82,16 @@
         <description>Выразите сердечную благодарность через молитву и почувствуйте свет во душе.</description>
         <collectionId>zakazat-blagodarstvennyy-moleben-ko-gospodu-onlayn</collectionId>
       </offer>
+      <offer id="moleben_10" available="true">
+        <name>Заказать благодарственный молебен Спасителю в храме</name>
+        <url>https://treba-online.ru/moleben/blagodarstvennyj-moleben-ko-gospodu</url>
+        <price>300</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://s3.ru1.storage.beget.cloud/c2f2a4e89ad4-my-img-files/treby_rsy/new_2025/8123dffd-de6e-4b0b-83a5-552ccc716f83.png</picture>
+        <description>Выразите искреннюю благодарность и почувствуйте радость души вместе с молебном</description>
+        <collectionId>zakazat-blagodarstvennyy-moleben-spasitelyu-v-hrame</collectionId>
+      </offer>
       <offer id="moleben_11" available="true">
         <name>Заказать благодарственный молебен Господу Иисусу Христу</name>
         <url>https://treba-online.ru/moleben/blagodarstvennyj-moleben-ko-gospodu</url>
@@ -91,6 +101,26 @@
         <picture>https://s3.ru1.storage.beget.cloud/c2f2a4e89ad4-my-img-files/treby_rsy/new_2025/6a6ae69a-aa43-4e05-b19e-ec3a71680799.png</picture>
         <description>Выразите благодарность и почувствуйте радость в душе с молитвой Господу Христу</description>
         <collectionId>zakazat-blagodarstvennyy-moleben-gospodu-iisusu-hristu</collectionId>
+      </offer>
+      <offer id="moleben_13" available="true">
+        <name>Заказать благодарственный молебен ко Господу Христу</name>
+        <url>https://treba-online.ru/moleben/blagodarstvennyj-moleben-ko-gospodu</url>
+        <price>300</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://s3.ru1.storage.beget.cloud/c2f2a4e89ad4-my-img-files/treby_rsy/new_2025/a8988a61-3da2-4d88-83da-60869a6b241a.png</picture>
+        <description>Подарите душе радость и благодарность через молитву ко Христу онлайн</description>
+        <collectionId>zakazat-blagodarstvennyy-moleben-ko-gospodu-hristu</collectionId>
+      </offer>
+      <offer id="moleben_14" available="true">
+        <name>Заказать благодарственный молебен Богородице онлайн</name>
+        <url>https://treba-online.ru/moleben/blagodarstvennyy-moleben-bogoroditse</url>
+        <price>300</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://s3.ru1.storage.beget.cloud/c2f2a4e89ad4-my-img-files/treby_rsy/new_2025/d3503a9f-6c95-4348-aa34-50426e11282a.png</picture>
+        <description>Выскажите сердечную благодарность Богородице — почувствуйте мир и свет!</description>
+        <collectionId>zakazat-blagodarstvennyy-moleben-bogoroditse-onlayn</collectionId>
       </offer>
       <offer id="moleben_15" available="true">
         <name>Заказать благодарственный молебен Матроне сегодня</name>
@@ -111,6 +141,16 @@
         <picture>https://s3.ru1.storage.beget.cloud/c2f2a4e89ad4-my-img-files/treby_rsy/new_2025/d52e6faf-4469-48a1-8fa5-0fd60c9c95ca.png</picture>
         <description>Доверьте свою молитву Николаю Чудотворцу — пусть сердце станет светлей!</description>
         <collectionId>zakazat-moleben-nikolayu-ugodniku-v-hrame-segodnya-onlayn</collectionId>
+      </offer>
+      <offer id="moleben_17" available="true">
+        <name>Заказать молебен Святому Николаю в храме сегодня онлайн</name>
+        <url>https://treba-online.ru/moleben/blagodarstvennyy-moleben-nikolayu-chudotvortsu</url>
+        <price>300</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://s3.ru1.storage.beget.cloud/c2f2a4e89ad4-my-img-files/treby_rsy/new_2025/9105c6d5-34ab-49bf-8b75-6078ad1c806d.png</picture>
+        <description>Доверьте свои просьбы Святому Николаю — почувствуйте его заботу и благодать.</description>
+        <collectionId>zakazat-moleben-svyatomu-nikolayu-v-hrame-segodnya-onlayn</collectionId>
       </offer>
       <offer id="moleben_18" available="true">
         <name>Заказать благодарственный молебен Николаю Чудотворцу</name>
@@ -232,15 +272,15 @@
         <description>Выразите свою благодарность и обретите душевный покой с молебном сегодня!</description>
         <collectionId>podat-blagodarstvennyy-moleben-v-hrame-onlayn-segodnya</collectionId>
       </offer>
-      <offer id="moleben_38" available="true">
-        <name>Заказать молебен в храме с молитвой быстро сегодня</name>
+      <offer id="moleben_40" available="true">
+        <name>Заказать молебен Экономиссе с молитвой в храме сегодня</name>
         <url>https://treba-online.ru/treba/moleben</url>
         <price>300</price>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
-        <picture>https://s3.ru1.storage.beget.cloud/c2f2a4e89ad4-my-img-files/treby_rsy/new_2025/83942271-55e8-479a-a2ec-66495743252e.png</picture>
-        <description>Пусть молитва согреет сердце — узнайте цену молебна и сделайте шаг к свету.</description>
-        <collectionId>zakazat-moleben-v-hrame-s-molitvoy-bystro-segodnya</collectionId>
+        <picture>https://s3.ru1.storage.beget.cloud/c2f2a4e89ad4-my-img-files/treby_rsy/new_2025/a6981d75-7eb7-4ae3-8fbd-3508bf82ad0f.png</picture>
+        <description>Пусть тихая молитва в храме принесёт свет в ваш дом и покой в сердце.</description>
+        <collectionId>zakazat-moleben-ekonomisse-s-molitvoy-v-hrame-segodnya</collectionId>
       </offer>
       <offer id="moleben_59" available="true">
         <name>Заказать молебен в храме с молитвой сегодня онлайн</name>
@@ -562,6 +602,16 @@
         <description>Пусть молитва Иоанну Воину внесет свет в сердце именно сегодня.</description>
         <collectionId>zakazat-moleben-ioannu-voinu-v-hrame-segodnya-onlayn</collectionId>
       </offer>
+      <offer id="moleben_128" available="true">
+        <name>Заказать молебен святому Киприану с молитвой в храме</name>
+        <url>https://treba-online.ru/moleben/moleben-kiprianu-i-iustine-o-zdravii</url>
+        <price>300</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://s3.ru1.storage.beget.cloud/c2f2a4e89ad4-my-img-files/treby_rsy/new_2025/45b04f42-9712-4d09-97e0-df4346d41545.png</picture>
+        <description>Доверьте свои тревоги святому Киприану — молитва наполнит душу светом.</description>
+        <collectionId>zakazat-moleben-svyatomu-kiprianu-s-molitvoy-v-hrame</collectionId>
+      </offer>
       <offer id="moleben_129" available="true">
         <name>Заказать молебен Луке Крымскому в храме онлайн сегодня</name>
         <url>https://treba-online.ru/moleben/moleben-ko-svt-luke-krymskomu</url>
@@ -622,6 +672,16 @@
         <description>Доверьте святому Уару свои заботы — пусть молитва принесет свет в сердце.</description>
         <collectionId>zakazat-moleben-svyatomu-uaru-s-molitvoy-segodnya-onlayn</collectionId>
       </offer>
+      <offer id="moleben_136" available="true">
+        <name>Заказать молебен святому Уару с молитвой в храме сегодня</name>
+        <url>https://treba-online.ru/moleben/moleben-mucheniku-uaru</url>
+        <price>300</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://s3.ru1.storage.beget.cloud/c2f2a4e89ad4-my-img-files/treby_rsy/new_2025/18555c92-8d51-43d6-9212-5746ed8c09a1.png</picture>
+        <description>Пусть молитва святому Уару наполнит вашу душу светом и надеждой.</description>
+        <collectionId>zakazat-moleben-svyatomu-uaru-s-molitvoy-v-hrame-segodnya</collectionId>
+      </offer>
       <offer id="moleben_138" available="true">
         <name>Заказать молебен для продажи квартиры в храме сегодня</name>
         <url>https://treba-online.ru/moleben/moleben-na-prodazhu-kvartiry</url>
@@ -642,15 +702,25 @@
         <description>Ощутите тепло молитвы Нектарию, закажите сейчас и поверите в чудо</description>
         <collectionId>zakazat-moleben-nektariyu-eginskomu-s-molitvoy-seychas</collectionId>
       </offer>
-      <offer id="moleben_140" available="true">
-        <name>Заказать молебен Николаю Чудотворцу о работе сегодня</name>
-        <url>https://treba-online.ru/moleben/moleben-nikolayu-chudotvorcu-o-pomoshchi-v-rabote</url>
+      <offer id="moleben_142" available="true">
+        <name>Заказать молебен Спиридону о продаже квартиры сегодня</name>
+        <url>https://treba-online.ru/moleben/moleben-o-bezopasnoj-i-uspeshnoj-prodazhe-ili-pokupke-nedvizhimosti-k-spiridonu-trimifuntskomu</url>
         <price>300</price>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
-        <picture>https://s3.ru1.storage.beget.cloud/c2f2a4e89ad4-my-img-files/treby_rsy/new_2025/f27ec962-c51d-4346-8a17-79509347f82e.png</picture>
-        <description>Пусть святой Николай откроет путь к новой душе работы и светлым дням.</description>
-        <collectionId>zakazat-moleben-nikolayu-chudotvortsu-o-rabote-segodnya</collectionId>
+        <picture>https://s3.ru1.storage.beget.cloud/c2f2a4e89ad4-my-img-files/treby_rsy/new_2025/fccb78bc-b824-4ec5-87eb-d424ef0f9b60.png</picture>
+        <description>Обеспечьте удачную и быструю продажу квартиры с помощью молитвы Спиридону!</description>
+        <collectionId>zakazat-moleben-spiridonu-o-prodazhe-kvartiry-segodnya</collectionId>
+      </offer>
+      <offer id="moleben_143" available="true">
+        <name>Заказать молебен путешествующим в храме сегодня онлайн</name>
+        <url>https://treba-online.ru/moleben/moleben-o-peredvigayushchihsya-puteshestvuyushchih-na-avtomobile</url>
+        <price>300</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://s3.ru1.storage.beget.cloud/c2f2a4e89ad4-my-img-files/treby_rsy/new_2025/3262a01d-1f16-4a00-ba42-6bc86a079101.png</picture>
+        <description>Пусть молитва оберегает в дороге — закажите молебен для близких сейчас!</description>
+        <collectionId>zakazat-moleben-puteshestvuyushchim-v-hrame-segodnya-onlayn</collectionId>
       </offer>
       <offer id="moleben_144" available="true">
         <name>Заказать молебен в дорогу с молитвой в храме сегодня</name>
@@ -661,6 +731,26 @@
         <picture>https://s3.ru1.storage.beget.cloud/c2f2a4e89ad4-my-img-files/treby_rsy/new_2025/19479c8e-1191-45d2-ba69-7b52a95dd411.png</picture>
         <description>Пусть молитва в храме охранит вас от волнений и подарит спокойствие.</description>
         <collectionId>zakazat-moleben-v-dorogu-s-molitvoy-v-hrame-segodnya</collectionId>
+      </offer>
+      <offer id="moleben_145" available="true">
+        <name>Заказать молебен о путешествующих в храме сегодня</name>
+        <url>https://treba-online.ru/moleben/moleben-o-peredvigayushchihsya-puteshestvuyushchih-na-avtomobile</url>
+        <price>300</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://s3.ru1.storage.beget.cloud/c2f2a4e89ad4-my-img-files/treby_rsy/new_2025/451b1394-e148-416e-a7a5-658f350206ed.png</picture>
+        <description>Пусть молитва оберегает каждого на пути — доверьте заботу храму!</description>
+        <collectionId>zakazat-moleben-o-puteshestvuyushchih-v-hrame-segodnya</collectionId>
+      </offer>
+      <offer id="moleben_146" available="true">
+        <name>Заказать молебен путешествующим с молитвой в храме</name>
+        <url>https://treba-online.ru/moleben/moleben-o-peredvigayushchihsya-puteshestvuyushchih-na-avtomobile</url>
+        <price>300</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://s3.ru1.storage.beget.cloud/c2f2a4e89ad4-my-img-files/treby_rsy/new_2025/5bf8b312-5c62-4d64-9c42-7f3747f72ad2.png</picture>
+        <description>Обеспечьте безопасную дорогу и душевный покой близким прямо сейчас.</description>
+        <collectionId>zakazat-moleben-puteshestvuyushchim-s-molitvoy-v-hrame</collectionId>
       </offer>
       <offer id="moleben_147" available="true">
         <name>Заказать молебен за путешествующих с молитвой в храме</name>
@@ -742,16 +832,6 @@
         <description>Пусть в вашем доме царит мир и любовь — закажите молебен сегодня.</description>
         <collectionId>zakazat-moleben-o-sem-e-s-molitvoy-v-hrame-segodnya</collectionId>
       </offer>
-      <offer id="moleben_155" available="true">
-        <name>Заказать молебен о семье с молитвой в храме сегодня</name>
-        <url>https://treba-online.ru/moleben/moleben-o-semejnom-blagopoluchii</url>
-        <price>300</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://s3.ru1.storage.beget.cloud/c2f2a4e89ad4-my-img-files/treby_rsy/new_2025/12e62d83-6137-4cdb-a68f-c6f5f6f07753.png</picture>
-        <description>Пусть любовь и мир царят в вашем доме — закажите молитву сейчас</description>
-        <collectionId>zakazat-moleben-o-sem-e-s-molitvoy-v-hrame-segodnya</collectionId>
-      </offer>
       <offer id="moleben_156" available="true">
         <name>Заказать молебен о зачатии в храме сегодня онлайн</name>
         <url>https://treba-online.ru/moleben/moleben-o-zachatii</url>
@@ -762,16 +842,6 @@
         <description>Доверяйте сердцу — закажите молебен о зачатии и почувствуйте свет надежды</description>
         <collectionId>zakazat-moleben-o-zachatii-v-hrame-segodnya-onlayn</collectionId>
       </offer>
-      <offer id="moleben_157" available="true">
-        <name>Заказать молебен о даровании чад с молитвой сегодня</name>
-        <url>https://treba-online.ru/moleben/moleben-o-zachatii</url>
-        <price>300</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://s3.ru1.storage.beget.cloud/c2f2a4e89ad4-my-img-files/treby_rsy/new_2025/42810716-9551-4aeb-8785-594283435d73.png</picture>
-        <description>Пусть молитва откроет путь к радости материнства — закажите сейчас.</description>
-        <collectionId>zakazat-moleben-o-darovanii-chad-s-molitvoy-segodnya</collectionId>
-      </offer>
       <offer id="moleben_158" available="true">
         <name>Заказать молебен о зачатии ребенка в храме сегодня</name>
         <url>https://treba-online.ru/moleben/moleben-o-zachatii</url>
@@ -781,36 +851,6 @@
         <picture>https://s3.ru1.storage.beget.cloud/c2f2a4e89ad4-my-img-files/treby_rsy/new_2025/5b42a8d6-940f-4cf0-b277-16747d4f4584.png</picture>
         <description>Пусть молитва откроет путь к долгожданному чуду в вашем доме.</description>
         <collectionId>zakazat-moleben-o-zachatii-rebenka-v-hrame-segodnya</collectionId>
-      </offer>
-      <offer id="moleben_159" available="true">
-        <name>Заказать молебен от врагов в храме с молитвой сегодня</name>
-        <url>https://treba-online.ru/moleben/moleben-o-zashchite-ot-vragov</url>
-        <price>300</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://s3.ru1.storage.beget.cloud/c2f2a4e89ad4-my-img-files/treby_rsy/new_2025/5e375c84-ca9a-4f37-b8b9-087b0ce1572a.png</picture>
-        <description>Оберегите душу молитвой от врагов, что невидимы и явны вокруг вас.</description>
-        <collectionId>zakazat-moleben-ot-vragov-v-hrame-s-molitvoy-segodnya</collectionId>
-      </offer>
-      <offer id="moleben_160" available="true">
-        <name>Заказать молебен от врагов с молитвой в храме сегодня</name>
-        <url>https://treba-online.ru/moleben/moleben-o-zashchite-ot-vragov</url>
-        <price>300</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://s3.ru1.storage.beget.cloud/c2f2a4e89ad4-my-img-files/treby_rsy/new_2025/af66d40d-3e75-4828-b613-61b04e13ea9b.png</picture>
-        <description>Пусть молитва очистит душу от тревог и принесет свет в сердце.</description>
-        <collectionId>zakazat-moleben-ot-vragov-s-molitvoy-v-hrame-segodnya</collectionId>
-      </offer>
-      <offer id="moleben_161" available="true">
-        <name>Заказать молебен об умножении любви в храме сегодня</name>
-        <url>https://treba-online.ru/moleben/moleben-ob-umnozhenii-lyubvi</url>
-        <price>300</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://s3.ru1.storage.beget.cloud/c2f2a4e89ad4-my-img-files/treby_rsy/new_2025/b3326b81-bcbf-4b66-95ee-578966a87701.png</picture>
-        <description>Пусть молитва в храме наполнит сердце светом и раскроет любовь вокруг.</description>
-        <collectionId>zakazat-moleben-ob-umnozhenii-lyubvi-v-hrame-segodnya</collectionId>
       </offer>
       <offer id="moleben_162" available="true">
         <name>Заказать молебен о любви с молитвой в храме сегодня</name>
@@ -861,16 +901,6 @@
         <picture>https://s3.ru1.storage.beget.cloud/c2f2a4e89ad4-my-img-files/treby_rsy/new_2025/1a825a3f-62c5-4e7b-85c0-a81caeefeca2.png</picture>
         <description>Успокойтесь и получите поддержку перед экзаменом — молебен за успех и ясность ума</description>
         <collectionId>zakazat-moleben-pered-ekzamenom-v-hrame-segodnya-onlayn</collectionId>
-      </offer>
-      <offer id="moleben_170" available="true">
-        <name>Заказать молебен о родах в храме онлайн сегодня</name>
-        <url>https://treba-online.ru/moleben/moleben-pered-ikonoy-pomoshchnitsa-v-rodakh</url>
-        <price>300</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://s3.ru1.storage.beget.cloud/c2f2a4e89ad4-my-img-files/treby_rsy/new_2025/670d67bd-93b0-49ed-80af-4535d42d76e1.png</picture>
-        <description>Пусть молитва о лёгких родах согреет сердце и дарит надежду.</description>
-        <collectionId>zakazat-moleben-o-rodah-v-hrame-onlayn-segodnya</collectionId>
       </offer>
       <offer id="moleben_171" available="true">
         <name>Заказать молебен о помощи в родах в храме сегодня</name>
@@ -1032,6 +1062,16 @@
         <description>Пусть молитва Сергию Радонежскому оберегает вашего ученика на пути знаний.</description>
         <collectionId>zakazat-moleben-sergiyu-radonezhskomu-za-uchashchegosya</collectionId>
       </offer>
+      <offer id="moleben_190" available="true">
+        <name>Заказать молебен Сергия Радонежского в храме сегодня</name>
+        <url>https://treba-online.ru/moleben/moleben-prp-sergiyu-radonezhskomu</url>
+        <price>300</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://s3.ru1.storage.beget.cloud/c2f2a4e89ad4-my-img-files/treby_rsy/new_2025/f7a95c6f-bd2f-4719-adb7-783f719902d6.png</picture>
+        <description>Пусть молитва Сергия Радонежского наполнит дом светом и благодатью.</description>
+        <collectionId>zakazat-moleben-sergiya-radonezhskogo-v-hrame-segodnya</collectionId>
+      </offer>
       <offer id="moleben_191" available="true">
         <name>Заказать молебен Сергию Радонежскому за учащегося онлайн</name>
         <url>https://treba-online.ru/moleben/moleben-prp-sergiyu-radonezhskomu</url>
@@ -1052,6 +1092,16 @@
         <description>Обретите оберег и поддержку от Сергия Радонежского сейчас онлайн</description>
         <collectionId>zakazat-moleben-sergiyu-radonezhskomu-onlayn-segodnya</collectionId>
       </offer>
+      <offer id="moleben_193" available="true">
+        <name>Заказать молебен онлайн в СПб с молитвой в храме сегодня</name>
+        <url>https://treba-online.ru/treba/moleben-sankt-peterburg</url>
+        <price>300</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://s3.ru1.storage.beget.cloud/c2f2a4e89ad4-my-img-files/treby_rsy/new_2025/01996c9d-37a5-41cb-9073-73a042bb0820.png</picture>
+        <description>Ощутите покой и защиту близких через молебен в храме сегодня</description>
+        <collectionId>zakazat-moleben-onlayn-v-spb-s-molitvoy-v-hrame-segodnya</collectionId>
+      </offer>
       <offer id="moleben_194" available="true">
         <name>Заказать молебен Серафиму Вырицкому в храме сегодня</name>
         <url>https://treba-online.ru/moleben/moleben-serafimu-vyrickomu</url>
@@ -1061,6 +1111,16 @@
         <picture>https://s3.ru1.storage.beget.cloud/c2f2a4e89ad4-my-img-files/treby_rsy/new_2025/6c7e39c4-a7f8-460c-8f2f-68ec98f28744.png</picture>
         <description>Подарите защиту и покой себе и близким через молитву Серафиму</description>
         <collectionId>zakazat-moleben-serafimu-vyritskomu-v-hrame-segodnya</collectionId>
+      </offer>
+      <offer id="moleben_195" available="true">
+        <name>Заказать молебен Святому Стилиану Пафлагонскому сегодня</name>
+        <url>https://treba-online.ru/moleben/moleben-stilianu-paflagonskomu</url>
+        <price>300</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://s3.ru1.storage.beget.cloud/c2f2a4e89ad4-my-img-files/treby_rsy/new_2025/bd44f607-27a1-4d8a-9a7b-e70ed388b097.png</picture>
+        <description>Пусть Святой Стилиан оберегает ваших близких — закажите молитву сейчас!</description>
+        <collectionId>zakazat-moleben-svyatomu-stilianu-paflagonskomu-segodnya</collectionId>
       </offer>
       <offer id="moleben_196" available="true">
         <name>Заказать молебен Спиридону Тримифунтскому в храме</name>
@@ -1102,6 +1162,16 @@
         <description>Пусть молитва к Спиридону наполнит душу светом и теплом сегодня.</description>
         <collectionId>zakazat-moleben-prepodobnomu-spiridonu-v-hrame-segodnya</collectionId>
       </offer>
+      <offer id="moleben_201" available="true">
+        <name>Заказать молебен с акафистом Спиридону в храме сегодня</name>
+        <url>https://treba-online.ru/moleben/moleben-svt-spiridonu-trimifuntskomu</url>
+        <price>300</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://s3.ru1.storage.beget.cloud/c2f2a4e89ad4-my-img-files/treby_rsy/new_2025/6114a2b4-fb5e-4c5b-b1e8-2be340caac32.png</picture>
+        <description>Закажите молебен Спиридону Тримифунтскому — дайте душе свет и покой!</description>
+        <collectionId>zakazat-moleben-s-akafistom-spiridonu-v-hrame-segodnya</collectionId>
+      </offer>
       <offer id="moleben_202" available="true">
         <name>Заказать молебен Св. Спиридону на Корфу с молитвой</name>
         <url>https://treba-online.ru/moleben/moleben-svt-spiridonu-trimifuntskomu</url>
@@ -1121,16 +1191,6 @@
         <picture>https://s3.ru1.storage.beget.cloud/c2f2a4e89ad4-my-img-files/treby_rsy/new_2025/13e9d90b-cd10-4a3c-90cf-ced824ddc79a.png</picture>
         <description>Обеспечьте защиту и помощь от Спиридона Тримифунтского прямо на Корфу</description>
         <collectionId>zakazat-moleben-spiridonu-trimifuntskomu-na-korfu</collectionId>
-      </offer>
-      <offer id="moleben_204" available="true">
-        <name>Подать молебен Спиридону Тримифунтскому с молитвой</name>
-        <url>https://treba-online.ru/moleben/moleben-svt-spiridonu-trimifuntskomu</url>
-        <price>300</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://s3.ru1.storage.beget.cloud/c2f2a4e89ad4-my-img-files/treby_rsy/new_2025/6fab9eb3-08ef-461d-bbb6-fd15ff4e3ee4.png</picture>
-        <description>Обратись к Святому Спиридону — почувствуй крепость души и надежду.</description>
-        <collectionId>podat-moleben-spiridonu-trimifuntskomu-s-molitvoy</collectionId>
       </offer>
       <offer id="moleben_205" available="true">
         <name>Заказать молебен Спиридону Тримифунтскому онлайн сегодня</name>
@@ -1242,16 +1302,6 @@
         <description>Доверяйте святому Трифону свои заботы — пусть молитва обретёт силу рядом с вами!</description>
         <collectionId>zakazat-moleben-svyatomu-trifonu-bystro-v-hrame-onlayn</collectionId>
       </offer>
-      <offer id="moleben_216" available="true">
-        <name>Заказать молебен Святому Трифону в храме онлайн сегодня</name>
-        <url>https://treba-online.ru/moleben/moleben-svyatomu-mucheniku-trifonu</url>
-        <price>300</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://s3.ru1.storage.beget.cloud/c2f2a4e89ad4-my-img-files/treby_rsy/new_2025/2516db36-2ba8-4877-8ebe-c694832d6761.png</picture>
-        <description>Пусть молитва Святому Трифону наполняет вашу семью светом и миром.</description>
-        <collectionId>zakazat-moleben-svyatomu-trifonu-v-hrame-onlayn-segodnya</collectionId>
-      </offer>
       <offer id="moleben_217" available="true">
         <name>Заказать молебен мученику Трифону в храме сегодня</name>
         <url>https://treba-online.ru/moleben/moleben-svyatomu-mucheniku-trifonu</url>
@@ -1362,16 +1412,6 @@
         <description>Пусть молитва Всем святым согреет душу — закажите сегодня в храме!</description>
         <collectionId>zakazat-moleben-vsem-svyatym-s-molitvoy-v-hrame-segodnya</collectionId>
       </offer>
-      <offer id="moleben_228" available="true">
-        <name>Заказать молебен святому Златоусту в храме сегодня</name>
-        <url>https://treba-online.ru/treba/moleben-zlatoust</url>
-        <price>300</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://s3.ru1.storage.beget.cloud/c2f2a4e89ad4-my-img-files/treby_rsy/new_2025/5b014208-9e96-411a-b106-966cde247252.png</picture>
-        <description>Пусть слова святого Златоуста наполнят душу светом – молебен ждёт вас.</description>
-        <collectionId>zakazat-moleben-svyatomu-zlatoustu-v-hrame-segodnya</collectionId>
-      </offer>
       <offer id="moleben_229" available="true">
         <name>Заказать молебен Ксении Петербургской с молитвой сегодня</name>
         <url>https://treba-online.ru/moleben/molebny-blzh-ksenii-peterburgskoj</url>
@@ -1401,16 +1441,6 @@
         <picture>https://s3.ru1.storage.beget.cloud/c2f2a4e89ad4-my-img-files/treby_rsy/new_2025/15df3f00-fceb-409a-8382-2eefb3e6680e.png</picture>
         <description>Пусть сердце наполнится светом — сделайте заказ молебна у Ксении!</description>
         <collectionId>zakazat-moleben-v-chasovne-ksenii-peterburgskoy-segodnya</collectionId>
-      </offer>
-      <offer id="moleben_232" available="true">
-        <name>Заказать молебен Ксении Петербургской с молитвой сегодня</name>
-        <url>https://treba-online.ru/moleben/molebny-blzh-ksenii-peterburgskoj</url>
-        <price>300</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://s3.ru1.storage.beget.cloud/c2f2a4e89ad4-my-img-files/treby_rsy/new_2025/1e87cfc2-880a-40cc-a74f-d2281581615f.png</picture>
-        <description>Обретите защиту и покой с молитвой Ксении Петербургской уже сегодня</description>
-        <collectionId>zakazat-moleben-ksenii-peterburgskoy-s-molitvoy-segodnya</collectionId>
       </offer>
       <offer id="moleben_233" available="true">
         <name>Заказать молебен Ксении Петербургской в храме сегодня</name>
@@ -1622,15 +1652,35 @@
         <description>Пусть молитва обнимет близких, даря исцеление и свет надежды.</description>
         <collectionId>zakazat-moleben-i-sorokoust-o-zdravii-v-hrame-segodnya</collectionId>
       </offer>
-      <offer id="moleben_259" available="true">
-        <name>Заказать молебен в 3 храмов с молитвой онлайн сегодня</name>
-        <url>https://treba-online.ru/treba/sorokoust-v-3-hramah</url>
+      <offer id="moleben_258" available="true">
+        <name>Заказать молебен о здравии на 40 дней в храме сегодня</name>
+        <url>https://treba-online.ru/treba/sorokoust</url>
         <price>400</price>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
-        <picture>https://s3.ru1.storage.beget.cloud/c2f2a4e89ad4-my-img-files/treby_rsy/new_2025/96686ce7-a6c2-44db-929b-3286798962da.png</picture>
-        <description>Закажите молитву в трёх храмах — почувствуйте тепло души и покой сердца.</description>
-        <collectionId>zakazat-moleben-v-3-hramov-s-molitvoy-onlayn-segodnya</collectionId>
+        <picture>https://s3.ru1.storage.beget.cloud/c2f2a4e89ad4-my-img-files/treby_rsy/new_2025/046bbd20-c454-49be-aece-8c16c6135340.png</picture>
+        <description>Помогите близким обрести исцеление и душевный покой с молебном на 40 дней</description>
+        <collectionId>zakazat-moleben-o-zdravii-na-40-dney-v-hrame-segodnya</collectionId>
+      </offer>
+      <offer id="moleben_262" available="true">
+        <name>Заказать молебен о даровании супруга в храме сегодня</name>
+        <url>https://treba-online.ru/moleben/sozdanie-semi-poisk-suprugasuprugi</url>
+        <price>300</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://s3.ru1.storage.beget.cloud/c2f2a4e89ad4-my-img-files/treby_rsy/new_2025/b16fcc60-90cb-414c-84e3-ae9093296c59.png</picture>
+        <description>Пусть семейное счастье войдет в дом — закажите молитву о супруге сегодня.</description>
+        <collectionId>zakazat-moleben-o-darovanii-supruga-v-hrame-segodnya</collectionId>
+      </offer>
+      <offer id="moleben_266" available="true">
+        <name>Заказать молебен перед операцией в храме сегодня онлайн</name>
+        <url>https://treba-online.ru/moleben/uspeshnaya-medicinskaya-operaciya-i-posleduyushchaya-reabilitaciya</url>
+        <price>300</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://s3.ru1.storage.beget.cloud/c2f2a4e89ad4-my-img-files/treby_rsy/new_2025/5f3e5779-f9dc-49e3-ba52-0721495f744c.png</picture>
+        <description>Доверьтесь молитве — вместе встретим вызов и обретём свет в сердце.</description>
+        <collectionId>zakazat-moleben-pered-operatsiey-v-hrame-segodnya-onlayn</collectionId>
       </offer>
       <offer id="moleben_267" available="true">
         <name>Заказать водосвятный молебен с молитвой в храме сегодня</name>
@@ -1661,6 +1711,26 @@
         <picture>https://s3.ru1.storage.beget.cloud/c2f2a4e89ad4-my-img-files/treby_rsy/new_2025/b22535f6-c138-4a64-8940-61de52d91099.png</picture>
         <description>Доверьтесь молитве — пусть в сердце расцветет надежда на любовь и семью!</description>
         <collectionId>zakazat-moleben-o-zamuzhestve-v-hrame-s-molitvoy-segodnya</collectionId>
+      </offer>
+      <offer id="moleben_270" available="true">
+        <name>Заказать молебен о замужестве в храме сегодня онлайн</name>
+        <url>https://treba-online.ru/moleben/zamuzhestvo-docheri</url>
+        <price>300</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://s3.ru1.storage.beget.cloud/c2f2a4e89ad4-my-img-files/treby_rsy/new_2025/9ae86572-c651-4ecb-82bb-7fd1a1f788a2.png</picture>
+        <description>Доверьте свою мечту молитве — вместе ищем путь к счастью в семье!</description>
+        <collectionId>zakazat-moleben-o-zamuzhestve-v-hrame-segodnya-onlayn</collectionId>
+      </offer>
+      <offer id="moleben_271" available="true">
+        <name>Заказать молебен о женитьбе в храме с молитвой сегодня</name>
+        <url>https://treba-online.ru/moleben/zamuzhestvo-docheri</url>
+        <price>300</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://s3.ru1.storage.beget.cloud/c2f2a4e89ad4-my-img-files/treby_rsy/new_2025/918576d0-1d6f-4d69-90de-de91ca8353c0.png</picture>
+        <description>Найдите крепкую любовь и благословение на счастливую семейную жизнь</description>
+        <collectionId>zakazat-moleben-o-zhenit-be-v-hrame-s-molitvoy-segodnya</collectionId>
       </offer>
       <offer id="moleben_272" available="true">
         <name>Заказать молебен в храме Христа Спасителя быстро сегодня</name>
@@ -1831,6 +1901,16 @@
         <picture>https://s3.ru1.storage.beget.cloud/c2f2a4e89ad4-my-img-files/treby_rsy/new_2025/07bcf3b5-7479-4712-941b-89fad1a610c1.png</picture>
         <description>Пусть молитва озарит дом светом и верой — закажите молебен сегодня.</description>
         <collectionId>zakazat-moleben-o-zdravii-v-hrame-moskvy-segodnya</collectionId>
+      </offer>
+      <offer id="moleben_289" available="true">
+        <name>Подать молебен о здравии сегодня с молитвой в храме</name>
+        <url>https://treba-online.ru/treba/zapiski-o-zdravii</url>
+        <price>100</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://s3.ru1.storage.beget.cloud/c2f2a4e89ad4-my-img-files/treby_rsy/new_2025/d04b6e9a-e723-4f36-aea5-51980bd001ef.png</picture>
+        <description>Пусть молитва принесет исцеление – подайте молебен о здравии онлайн прямо сейчас.</description>
+        <collectionId>podat-moleben-o-zdravii-segodnya-s-molitvoy-v-hrame</collectionId>
       </offer>
       <offer id="moleben_290" available="true">
         <name>Заказать молебен о здравии в храме с молитвой сегодня</name>
